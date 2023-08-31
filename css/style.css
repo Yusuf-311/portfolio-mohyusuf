@@ -56,6 +56,7 @@ a {
   color: inherit;
 }
 
+.header__link,
 li {
   list-style: none;
 }
@@ -416,6 +417,29 @@ textarea {
   line-height: 1.7;
   margin-bottom: 3rem;
 }
+
+.education_location {
+  font-size: 1.4rem;
+  color: grey;
+  max-width: 60rem;
+  line-height: 1.7;
+}
+.education_title {
+  font-size: 1.8rem;
+  color: grey;
+  max-width: 60rem;
+  line-height: 1.7;
+  font-weight: bold;
+}
+
+.education_time {
+  font-size: 1.4rem;
+  color: grey;
+  max-width: 60rem;
+  line-height: 1.7;
+  font-weight: bold;
+}
+
 @media only screen and (max-width: 37.5em) {
   .projects__row-content-desc {
     font-size: 1.7rem;
