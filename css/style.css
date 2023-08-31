@@ -922,6 +922,7 @@ textarea {
   animation: pulsate-bck 2s ease-in-out infinite both;
 }
 
+.skills__skill,
 .color-change-2x {
   -webkit-animation: color-change-2x 7s linear infinite alternate both;
   animation: color-change-2x 7s linear infinite alternate both;
